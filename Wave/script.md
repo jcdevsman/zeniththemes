@@ -1,6 +1,6 @@
-# ZacOS 26
+# Wave
 
-Had to make the blur intense to get the floaty feeling
+Pretty bleh
 
 ```json
 {
